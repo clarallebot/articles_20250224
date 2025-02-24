@@ -1,4 +1,4 @@
 # Methods
-# Experiment A
-# Experiment B
-Explanation of details of Experiment B.
+## Experiment A
+## Other experiments
+Explanation of details of experiment B and C together.
